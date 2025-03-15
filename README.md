@@ -2,7 +2,7 @@
 
 ## Setup Instructions
 
-1. Clone the repository or unzip the zip folder(if not using git repository).
+1. Clone the repository.
 2. Set up a virtual environment: `python -m venv venv`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run migrations: `python manage.py migrate`
